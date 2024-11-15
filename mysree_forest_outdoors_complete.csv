@@ -1,0 +1,75 @@
+Name,Item_Rarity,Rarity_Value,Source,Drop_Type,Level,Location,Coordinates,XP_Reward,Additional_Info
+Small Fang,IR2,2.0,Wolf,Monster Drop,4,Mysree Forest,,,
+Animal Fur,IR1,1.0,Wolf,Monster Drop,4,Mysree Forest,,,
+Coarse Sand,IR2,2.0,Debrees Spot,Gathering,,South Hidell Bridge,,,
+White Seashell,IR2,2.0,Debrees Spot,Gathering,,South Hidell Bridge,,,
+Clear Insect Wing,IR1,1.0,Killer Bee,Monster Drop,4,Mysree Forest,,,
+Wild Herb,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,,,
+Goblin Horn,IR3,3.0,Forest Goblin,Monster Drop,5,Mysree Forest,,,
+Small Horn,IR1,1.0,Goblins,Monster Drop,5,Mysree Forest,,,
+Beast-Steak,IR1,1.0,Local Fauna,Monster Drop,,Mysree Forest,,,
+Animal Fur,IR1,1.0,Local Fauna,Monster Drop,,Mysree Forest,,,
+Lead Ore,IR2,2.0,Chest,Chest,,Mysree Forest,X208Y367,,
+Hard Wood,IR3,3.0,Logging Spots,Gathering,,Mysree Forest,X212Y368,,
+Brown Wood,IR2,2.0,Logging Spots,Gathering,,Mysree Forest,X212Y368,,
+Unrefined Demon Wine,IR4,4.0,HobGoblin Fighter,Monster Drop,5,Mysree Forest,,,
+Green Seed,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,,,near Goblin Village
+Animal Pelt,IR1,1.0,Local Fauna,Monster Drop,,Mysree Forest,,,
+Animal Bone,IR1,1.0,Local Fauna,Monster Drop,,Mysree Forest,,,
+Small Nut,IR2,2.0,Chest,Chest,,Mysree Forest,X188Y372,,
+High Quality Gala Mushroom,IR7,7.0,Mushroom Spot,Gathering,,Mysree Forest,,,
+Gala Mushroom,IR1,1.0,Mushroom Spot,Gathering,,Mysree Forest,,,
+Recovery Decoction,IR3,3.0,Chest,Chest,,Mysree Forest,X198Y365,,
+Lead Ore,IR2,2.0,Chest,Chest,,Mysree Forest,X218Y368,,
+Hard Wood,IR3,3.0,Logging Spots,Gathering,,Mysree Forest,,,near Goblin Village
+Brown Wood,IR2,2.0,Logging Spots,Gathering,,Mysree Forest,,,near Goblin Village
+Ape Pelt,IR3,3.0,Brute Ape,Monster Drop,7,Mysree Forest,,,
+Ape Fur,IR3,3.0,Brute Ape,Monster Drop,7,Mysree Forest,,,
+Small Nut,IR2,2.0,Chest,Chest,,Mysree Forest,X216Y391,,
+Oil Flask,IR1,1.0,Chest,Chest,,Mysree Forest,X216Y391,,
+Blank Scroll,IR2,2.0,Chest,Chest,,Mysree Forest,X223Y391,,
+Goblin's Leaf,IR4,4.0,Forest Goblin,Monster Drop,5,Mysree Forest,,,
+Quality Gala Mushroom,IR2,2.0,Mushroom Spot,Gathering,,Mysree Forest,,,Pig-eaters den
+Throwing Knife,IR7,7.0,Chest,Chest,,Mysree Forest,,,"500DMG, Pig-Eaters den"
+Rough Thread,IR3,3.0,Chest,Chest,,Mysree Forest,,,Pig-Eaters den
+Saurian Tail,IR2,2.0,Saurian,Monster Drop,5-6,Mysree Forest,,,
+Rock Scale,IR6,6.0,Saurian,Monster Drop,5-6,Mysree Forest,,,
+Apophyllite,IR4,4.0,Saurian,Monster Drop,5-6,Mysree Forest,,,
+Clear Water,IR2,2.0,Water Spot,Gathering,,Mysree Forest,,,River
+Silken Sand,IR3,3.0,Water Spot,Gathering,,Mysree Forest,,,River
+White Seashell,IR2,2.0,Debrees Spot,Gathering,,Mysree Forest,,,near Underground Waterway
+Giant Apophyllite,IR85,85.0,Saurian,Monster Drop,5-6,Mysree Forest,,,
+Iron Ore,IR4,4.0,Rock Saurian,Monster Drop,6,Mysree Forest,,,Notable Gold
+Rock Scale,IR6,6.0,Rock Saurian,Monster Drop,6,Mysree Forest,,,Notable Gold
+Superior Saurian Tail,IR6,6.0,Rock Saurian,Monster Drop,6,Mysree Forest,,,Notable Gold
+Wild Herb,IR3,3.0,Mushroom Spot,Gathering,,Mysree Forest,,,
+Wild Herb,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,X244Y402,,
+Purple Anise,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,X244Y402,,
+Hard Wood,IR3,3.0,Logging Spot,Gathering,,Mysree Forest,X244Y402,,
+Brown Wood,IR2,2.0,Logging Spot,Gathering,,Mysree Forest,X244Y402,,
+Filament,IR2,2.0,Chest,Chest,,Mysree Forest,X244Y402,,behind the large tree
+Giant Bone,IR3,3.0,Cyclops,Monster Drop,7,Mysree Forest,X246Y395,400,
+Cyclops Tusk,IR5,5.0,Cyclops,Monster Drop,7,Mysree Forest,X246Y395,400,
+Purple Anise,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,X241Y385,,Top of tree
+Green Seed,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,X241Y385,,Top of tree
+Spider Thread,IR1,1.0,Chest,Chest,,Mysree Forest,X249Y391,,
+Monster Gallstone,IR4,4.0,Crate,Chest,,Mysree Forest,X249Y385,,
+Spider Thread,IR1,1.0,Crate,Chest,,Mysree Forest,X249Y385,,
+Large Fang,IR5,5.0,Direwolf,Monster Drop,15,Mysree Forest,X253Y393,,Pack
+Strong Animal Leather,IR5,5.0,Direwolf,Monster Drop,15,Mysree Forest,X253Y393,,Pack
+Beast Leather,IR9,9.0,Crates,Chest,,Mysree Forest,,,East Mysree-Volden road
+Superior Healing Potion,IR3,3.0,Crates,Chest,,Mysree Forest,,,East Mysree-Volden road
+Ape Fur,IR3,3.0,Dread Ape,Monster Drop,25,Mysree Forest,X196Y406,3000,
+Large Simian Thick Pelt,IR4,4.0,Dread Ape,Monster Drop,25,Mysree Forest,X196Y406,3000,
+Small Nut,IR2,2.0,Chest,Chest,,Mysree Forest,X196Y406,,
+Oil Flask,IR2,2.0,Chest,Chest,,Mysree Forest,X196Y406,,
+Green Seed,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,X218Y423,,Top of Tree
+White Liquor,IR5,5.0,Rogue Vocations,Monster Drop,6,Mysree Forest,,,
+Iron Ore,IR4,4.0,Locked Chest,Chest,,Mysree Forest,X226Y427,,
+Iron Ore Fragment,IR3,3.0,Locked Chest,Chest,,Mysree Forest,X226Y427,,
+Green Seed,IR3,3.0,Herb Spot,Gathering,,Mysree Forest,X220Y426,,Top of Tree
+Spider Thread,IR1,1.0,Spider,Monster Drop,,Mysree Forest,,,in front of Ancient Burial Mound
+Spider Mesh,IR45,45.0,Spider,Monster Drop,,Mysree Forest,,,in front of Ancient Burial Mound
+Beast Leather,IR9,9.0,Crates,Chest,,Mysree Forest,,,in front of Ancient Burial Mound
+Crooked Fang,IR4,4.0,Crates,Chest,,Mysree Forest,,,in front of Ancient Burial Mound
+Iron Ore Fragment,IR3,3.0,Chest,Chest,,Mysree Forest,,,in front of Ancient Burial Mound
